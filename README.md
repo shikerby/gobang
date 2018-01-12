@@ -1,1 +1,3 @@
-README.md
+这是我之前做的一个五子棋小游戏
+现在是为了熟悉GIT 和VS CODE
+将他同步到github上
